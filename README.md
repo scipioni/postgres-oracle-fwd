@@ -1,6 +1,6 @@
 # postgres with oracle_fwd
 
-PostgreSQL Foreign Data Wrapper for Oracle
+Dockerized postgres with foreign data wrapper for oracle.
 
 References:
 - https://hub.docker.com/r/toleg/postgres_oracle_fdw
